@@ -1,0 +1,19 @@
+Loading The MNIST Dataset For Analysis Using KNN/n
+K-NN_Applied.ipynb  MNIST_Dataset_Loader  Summary.log
+Loading Training Data
+(60000, 784)
+(60000,)
+(60000, 784)
+(60000,)
+(60000, 784)
+(60000,)
+(60000, 784)
+(60000,)
+(60000, 784)
+(60000,)
+Loading The MNIST Dataset For Analysis Using KNN/n
+K-NN_Applied.ipynb  MNIST_Dataset_Loader  Summary.log
+Loading Training Data...
+(60000, 784)
+(60000,)
+Loading Testing Data...
